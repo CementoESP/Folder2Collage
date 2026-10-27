@@ -1,0 +1,21 @@
+# Entorno de construccion
+.venv/
+
+# Resultados de empaquetado
+empaquetado/build/
+empaquetado/dist/
+empaquetado/salida/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos locales del usuario (por si se ejecuta desde el repo)
+collage_config.json
+cache/
+collages/
+modelo/
+
+# Sistema
+Thumbs.db
+desktop.ini

@@ -1,0 +1,26 @@
+Folder2Collage - Third-party software notices / Avisos de software de terceros
+==============================================================================
+
+Folder2Collage includes the following open-source components. Each one keeps
+its own license; the full texts are available at the linked projects.
+
+Folder2Collage incluye los siguientes componentes de código abierto. Cada uno
+conserva su propia licencia; los textos completos están en cada proyecto.
+
+- Python                     PSF License             https://www.python.org/
+- Tcl/Tk                     Tcl/Tk License (BSD)    https://www.tcl.tk/
+- Pillow                     MIT-CMU License         https://python-pillow.github.io/
+- CustomTkinter              MIT License             https://github.com/TomSchimansky/CustomTkinter
+- darkdetect                 BSD 3-Clause License    https://github.com/albertosottile/darkdetect
+- NumPy                      BSD 3-Clause License    https://numpy.org/
+- ONNX Runtime               MIT License             https://github.com/microsoft/onnxruntime
+- FlatBuffers                Apache License 2.0      https://github.com/google/flatbuffers
+- Protocol Buffers           BSD 3-Clause License    https://github.com/protocolbuffers/protobuf
+- PyInstaller (bootloader)   GPL 2.0 with the PyInstaller bootloader exception
+                                                     https://pyinstaller.org/
+
+AI model (downloaded only if the user asks for it, not included in the installer)
+Modelo de IA (solo se descarga si el usuario lo pide; no va en el instalador)
+
+- CLIP ViT-B/32, OpenAI      MIT License             https://github.com/openai/CLIP
+  ONNX conversion by Xenova  https://huggingface.co/Xenova/clip-vit-base-patch32

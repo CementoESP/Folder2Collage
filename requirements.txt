@@ -1,0 +1,5 @@
+Pillow>=10
+customtkinter>=5.2
+# Fotos parecidas con IA (el modelo se descarga desde la aplicacion la primera vez)
+onnxruntime>=1.17
+numpy>=1.24
