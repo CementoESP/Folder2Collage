@@ -1,14 +1,15 @@
 # Folder2Collage
 
+**English** · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md)
+
 Make random collages from the images in a folder — for example your Windows
 screenshots. Pick a resolution, a layout and how many images, and Folder2Collage
 arranges them into a collage. Everything runs on your PC; **nothing is ever sent
 online.**
 
-*Español, Deutsch, Français, Italiano, Português — the app auto-detects your
-Windows language and you can switch it at any time.*
+*The app speaks English, Español, Deutsch, Français, Italiano and Português, and
+auto-detects your Windows language — you can switch it at any time.*
 
-<!-- Add a screenshot at docs/captura.png -->
 ![Folder2Collage](docs/captura.png)
 
 ## Features
